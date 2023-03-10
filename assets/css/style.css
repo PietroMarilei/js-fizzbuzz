@@ -3,13 +3,15 @@
 }
 
 li {
-    background-color: aquamarine;
+    background-color: rgb(70, 108, 204);
     padding: 2rem;
-    margin: 1rem;
+    margin: 0.3rem;
     border-radius: 10px;
     width: 100px;
     aspect-ratio: 1 / 1;
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    font-size: larger;
 }
